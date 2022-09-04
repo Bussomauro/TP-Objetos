@@ -1,0 +1,8 @@
+package ar.org.centro8.curso.java.proyecto.connections;
+
+public class Connector {
+    private static String driver="org.mariadb.jdbc.Driver";
+    private static String url="jdbc:mariadb://serverxxx:8888/basexxx";
+    private static String user="xxx";
+    private static String pass="xxx";
+}
